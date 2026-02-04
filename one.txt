@@ -1,0 +1,29 @@
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+class vehicle{
+	void bicycle(){
+		System.out.println("I am riding in bicycle");
+	}
+}
+
+class vehicle extends bike {
+	void car(){
+		System.out.println("I am riding in bike");
+	}
+}
+
+public class Solve{
+
+   public static void main(String args[]){
+
+	  bike v = new bike();
+	  v.bicycle();
+	  v.car();
+      
+	
+   }
+}
