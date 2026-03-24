@@ -1,2 +1,2 @@
 # java
-Object Oriented Programming
+This repository contains my collection of Java solutions to coding problems from platforms like LeetCode, HackerRank, CodeChef, and others. It reflects my journey of improving problem-solving skills and strengthening core programming concepts in Java. The solutions cover a wide range of topics including arrays, strings, recursion, data structures, and algorithms. I regularly update this repository as I practice new problems and learn more efficient approaches. This serves both as a personal reference and as a resource for anyone looking to understand different problem-solving techniques in Java.
